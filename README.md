@@ -8,6 +8,7 @@ An interactive Power BI Sales Dashboard designed to analyze sales performance, q
 - MySQL
 - SQL
 - Data Visualization
+  
 
 ## 📈 Dashboard Features
 - Total Sales
@@ -34,3 +35,7 @@ The Power BI dashboard file is included in this repository:
 
 ## 👩‍💻 Author
 Vishu Sharma
+
+## 📊 Dashboard Preview
+
+![Sales Dashboard Preview](Screenshot%20%28197%29.png)
